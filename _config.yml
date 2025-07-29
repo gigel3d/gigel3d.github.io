@@ -111,6 +111,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -135,3 +143,9 @@ social:
   name:  Gigel3d # If the user or organization name differs from the site's name
   links:
     - "https://x.com/Gigel3d"
+
+# collections
+collections:
+portfolio:
+  output: true
+  permalink: /:collection/:path/

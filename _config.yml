@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gigel’s Tech Art Learning Materials
-email:
+title: Tech Art Learning Materials
+email: gigel3d@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech Art learning materials.
+  Tech Art Learning Materials
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,32 +58,32 @@ plugins:
 author:
   name   : "Paweł Stachowicz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical Artist | Asset Store & FAB Publisher"
+  bio    : "Technical Artist"
   links:
-    - label: "Website"
+    - label: "Artstation"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://www.artstation.com/gigel"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Gigel3d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/gigel3d"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/channel/UCv25KtK5ViaY0wwmiuHbIjw"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Gigel3d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/gigel3d"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/channel/UCv25KtK5ViaY0wwmiuHbIjw"
 
 defaults:
   # _posts
@@ -91,9 +91,11 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true
+      words_per_minute: 250
       comments: true
       share: true
       related: true

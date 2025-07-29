@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Paweł Stachowicz"
-  avatar : "/assets/images/author.jpg"
+  avatar : "/assets/images/author.png"
   bio    : "Technical Artist"
   links:
     - label: "Artstation"
@@ -118,7 +118,7 @@ tag_archive:
   path: /tags/
 
 teaser: "/assets/images/500x300.png"
-logo: "/assets/images/88x88.png"
+# logo: "/assets/images/88x88.png"
 enable_copy_code_button: true
 atom_feed:
   hide: true

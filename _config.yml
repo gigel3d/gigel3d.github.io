@@ -120,7 +120,7 @@ tag_archive:
   path: /tags/
 
 teaser: "/assets/images/500x300.png"
-# logo: "/assets/images/88x88.png"
+logo: "/assets/images/88x88.png"
 # masthead_title: "Tech Art Learning Materials"
 enable_copy_code_button: true
 atom_feed:

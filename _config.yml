@@ -61,16 +61,16 @@ author:
   bio    : "Technical Artist"
   links:
     - label: "Artstation"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-artstation"
       url: "https://www.artstation.com/gigel"
     - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://x.com/Gigel3d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gigel3d"
     - label: "YouTube"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/channel/UCv25KtK5ViaY0wwmiuHbIjw"
 
 footer:

@@ -98,7 +98,7 @@ defaults:
     values:
       show_date: true
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       words_per_minute: 250
       comments: true

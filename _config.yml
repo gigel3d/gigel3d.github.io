@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tech Art Learning Materials
+title: Gigel3d
+subtitle: "Tech Art Learning Materials"
+name: "Paweł Stachowicz"
 email: gigel3d@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech Art Learning Materials
+  Tech Art learning materials for Houdini, Unreal, Blender and Substance. 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
@@ -119,6 +121,17 @@ tag_archive:
 
 teaser: "/assets/images/500x300.png"
 # logo: "/assets/images/88x88.png"
+# masthead_title: "Tech Art Learning Materials"
 enable_copy_code_button: true
 atom_feed:
   hide: true
+timezone: Poland
+
+# socials
+twitter:
+  username: "Gigel3d"
+social:
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Gigel3d # If the user or organization name differs from the site's name
+  links:
+    - "https://x.com/Gigel3d"

@@ -4,4 +4,4 @@ title: "About"
 author_profile: true
 ---
 
-Technical Artist and Publisher on Unity Asset Store & FAB.
+Technical Artist, Publisher on Unity Asset Store and FAB.

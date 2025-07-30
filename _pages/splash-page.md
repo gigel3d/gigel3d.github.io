@@ -26,7 +26,7 @@ feature_row:
     title: "Blender"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Blender"
+    btn_label: "Learn"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
@@ -37,7 +37,7 @@ feature_row:
     title: "Houdini"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Houdini"
+    btn_label: "Learn"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-5-th.jpg
     title: "Substance"

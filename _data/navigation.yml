@@ -11,4 +11,5 @@ main:
     url: /portfolio/
   - title: "Photography"
     url: /photography/
-
+  - title: "Splash"
+    url: /splash-page/

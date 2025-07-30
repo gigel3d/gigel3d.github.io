@@ -1,5 +1,5 @@
 ---
-title: "Astrophotography"
+# title: "Astrophotography"
 header:
   teaser: /assets/images/astrophotography/pebble-beach-thumb.jpg
 gallery1:

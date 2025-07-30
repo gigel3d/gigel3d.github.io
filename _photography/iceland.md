@@ -1,7 +1,7 @@
 ---
 title: "Iceland"
 header:
-  teaser: /assets/images/iceland/skogafoss-thumb.jpg
+  teaser: /assets/images/astrophotography/pebble-beach-thumb.jpg
 gallery1:
   - url: /assets/images/iceland/skogafoss.jpg
     image_path: /assets/images/iceland/skogafoss.jpg

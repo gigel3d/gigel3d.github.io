@@ -1,7 +1,7 @@
 ---
 title: "Macrophotography"
 header:
-  teaser: /assets/images/macro/bumblebee-thumb.jpg
+  teaser: /assets/images/astrophotogaphy/Houdini3D_icon.png
 gallery1:
   - url: /assets/images/macro/dragonfly.jpg
     image_path: /assets/images/macro/dragonfly.jpg

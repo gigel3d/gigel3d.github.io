@@ -15,7 +15,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/astrophotography/unreallogo.png
+  - image_path: assets/images/astrophotography/unreallogo.png
     alt: "placeholder image 1"
     title: "Unreal"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/astrophotography/Houdini3D_icon.png
+  - image_path: /assets/images/astrophotography/Houdini3D_icon.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 4"
     title: "Houdini"

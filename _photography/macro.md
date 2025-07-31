@@ -1,5 +1,5 @@
 ---
-title: "Macrophotography"
+title: "Houdini Python States"
 header:
   teaser: /assets/images/astrophotogaphy/Houdini3D_icon.png
 gallery1:
@@ -20,7 +20,7 @@ gallery4:
     alt: "Indian Pipe"
 ---
 
-Macrophotography was my first field of passion within photography. As a kid I loved getting up close to objects and seeing small details.
+Series of short tutorials showing practical usage of Pyton States in Houdini.
 
 {% include gallery id="gallery1" caption="A dragonfly rests its wings on a hydrangea. D90, 60mm f/2.8D, f/5.6, ISO 200, 1/160s." %}
 

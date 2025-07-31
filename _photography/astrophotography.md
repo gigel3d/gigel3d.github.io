@@ -1,5 +1,5 @@
 ---
-# title: "Astrophotography"
+# title: "Procedural Assets"
 header:
   teaser: /assets/images/astrophotography/pebble-beach-thumb.jpg
 gallery1:
@@ -23,7 +23,7 @@ gallery4:
 
 
 
-The newest and most technically challenging sub-categories of photography that I have attempted to capture. If only mosquitoes didn't exist...
+Tutorials about creating procedural assets in Houdini, Blender and Unreal.
 
 {% include gallery id="gallery1" caption="The Milky Way lights the sky above Ellingson Island from Pebble Beach at Split Rock State Park. Panorama of seven photos, D750, 20mm f/1.8G, f/1.8, ISO 3200, 13s." %}
 

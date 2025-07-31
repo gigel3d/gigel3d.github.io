@@ -1,7 +1,7 @@
 ---
 title: "Test"
 header:
-  teaser: /assets/images/astrophotography/pebble-beach-thumb.jpg
+  teaser: /assets/images/astrophotography/unreallogo.png
 gallery1:
   - url: /assets/images/iceland/skogafoss.jpg
     image_path: /assets/images/iceland/skogafoss.jpg
